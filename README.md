@@ -21,9 +21,11 @@ Here are some of the tools and software I use regularly:
 
 Here are some of my noteworthy repositories:
 
-1. [**Electrical Design of a One storey Building using AutoCAD**](https://github.com/Zeldris-X/AutoCAD): 
-2. [**Design of a Distribution Transformer**](https://github.com/Zeldris-X/Transformer-Design): 
-3. [**My Portfolio**](https://github.com/Zeldris-X/My_portfolio):
+1. [**Electrical Design of a One storey Building using AutoCAD**](https://github.com/Zeldris-X/AutoCAD) 
+2. [**Design of a Distribution Transformer**](https://github.com/Zeldris-X/Transformer-Design) 
+3. [**My Portfolio**](https://github.com/Zeldris-X/My_portfolio)
+4. [**Snake Game**](https://github.com/Zeldris-X/Snake-Game)
+5. [**Flappy Bird**](https://github.com/Zeldris-X/Game)
 
 
 ---
